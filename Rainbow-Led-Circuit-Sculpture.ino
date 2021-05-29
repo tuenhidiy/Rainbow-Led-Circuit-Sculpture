@@ -41,16 +41,6 @@ struct Color
   Color() : red(0), green(0), blue(0) {}
 };
 
-const Color redcolor        = Color(0x0F, 0x00, 0x00);
-const Color orangecolor     = Color(0x0F, 0x0F, 0x00);
-const Color yellowcolor     = Color(0x0F, 0x09, 0x00);
-const Color greencolor      = Color(0x00, 0x0F, 0x00);
-const Color tealcolor       = Color(0x00, 0x0F, 0x04);
-const Color bluecolor       = Color(0x00, 0x00, 0x0F);
-const Color purplecolor     = Color(0x0F, 0x00, 0x0F);
-const Color whitecolor      = Color(0x0F, 0x0F, 0x0F);
-const Color blackcolor      = Color(0x00, 0x00, 0x00);
-
 //***********************************************ColorWheel Variables*****************************************************//
 
 #define BAM_RESOLUTION 4  
